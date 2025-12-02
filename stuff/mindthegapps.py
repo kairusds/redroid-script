@@ -80,6 +80,16 @@ class MindTheGapps(General):
                 "5af756b3b5776c2f6ee024a9f7f42a2f",
             ],
         },
+        "11.0.0": {
+            "x86_64": [
+                "https://github.com/kairusds/MindTheGappsBuilder/releases/download/latest/MindTheGapps-11.0.0-x86_64-20251201.zip",
+                "9fdb509f5ff20beb437f2425031ccb03"
+            ],
+            "arm64": [
+                "https://github.com/kairusds/MindTheGappsBuilder/releases/download/latest/MindTheGapps-11.0.0-arm64-20251201.zip",
+                "036b84167e1761d0ecc2ce0743f1e0a1"
+            ]
+        }
     }
 
     arch = host()
